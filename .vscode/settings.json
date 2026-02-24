@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Vehicle_Rental_System",
+            "username": "postgres",
+            "database": "Vehicle_Rental_System",
+            "password": "Aydid@Rifat00622"
+        }
+    ]
+}
